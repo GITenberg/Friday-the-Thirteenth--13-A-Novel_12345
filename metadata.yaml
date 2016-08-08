@@ -1,0 +1,39 @@
+_repo: Friday-the-Thirteenth--13-A-Novel_12345
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ivanowski, Sigismond de
+    alias: Ivanowski, Sigmund de
+    birthdate: 1875
+    gutenberg_agent_id: '4578'
+    url: http://www.gutenberg.org/2009/agents/4578
+creator:
+  author:
+    agent_name: Lawson, Thomas William
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '4328'
+    url: http://www.gutenberg.org/2009/agents/4328
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Lawson_(businessman)
+description: ''
+gutenberg_issued: '2005-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12345'
+  lccn: 07008213
+language: en
+publication_note: "Copyright, 1906, 1907.\r\nCopyright, 1907.\r\nPublished, February,\
+  \ 1907"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National banks (United States) -- Fiction'
+- !lcsh 'Stock exchanges -- United States -- Fiction'
+- !lcsh 'Financial crises -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Banks and banking, American -- Fiction'
+- !lcsh 'Banks and banking, International -- Fiction'
+- GITenberg
+title: "Friday, the Thirteenth\r\nA Novel"
+url: http://www.gutenberg.org/ebooks/12345
